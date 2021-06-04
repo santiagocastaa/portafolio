@@ -185,6 +185,7 @@ main .characteristics .character .description a{
 main .skills {
     width: 85%;
     margin: auto;
+    text-align: center;
     max-width: 1500px;
 
     display: flex;
@@ -225,6 +226,11 @@ main .skills .title{
         font-weight: 700;
         text-align: center;
     }
+.title2{
+    width: 100%;
+    text-align: center;
+}
+    
 /* ============================== */
 
 
